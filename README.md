@@ -8,7 +8,7 @@
 - JavaScript (NodeJS)
 - C++ (Básico)
 
-### [![GTAHub]](gtahub.gg)
+### [GTAHub](https://gtahub.gg)
 - ⚒️ Soporte
 ---
 [![Discord](https://i.imgur.com/pJYvlQu.png)](https://discord.gg/u7sAMDuFAK)

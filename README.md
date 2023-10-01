@@ -1,16 +1,13 @@
-### Hi there 👋
+# ¡Hola! Soy Daniel, tambien me conocen como DanoGlez
+> No me dedico a la programción, pero hago proyectos para conocidos cuando tengo tiempo libre, me gusta aprender y adquirir nuevos conocimientos con cada proyecto.
 
-<!--
-**DanoGlez/DanoGlez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔩 Lenguajes aprendidos
+- JavaScript (NodeJS)
+- C++ (Básico)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![Instagram](https://i.imgur.com/9dxVXq9.png)](https://instagram.com/danieldaarias)
+[![Discord](https://assets-global.website-files.com/6238e97f6441e30a13a52345/6436e47afe585348eac57c74_Discord-Logo%2BWordmark-Color%20(1).png)](https://discord.gg/u7sAMDuFAK)
+

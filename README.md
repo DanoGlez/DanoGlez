@@ -8,6 +8,6 @@
 - C++ (Básico)
 
 ---
-[![Instagram](https://i.imgur.com/9dxVXq9.png)](https://instagram.com/danieldaarias)
-[![Discord](https://assets-global.website-files.com/6238e97f6441e30a13a52345/6436e47afe585348eac57c74_Discord-Logo%2BWordmark-Color%20(1).png)](https://discord.gg/u7sAMDuFAK)
+[![Instagram](https://i.imgur.com/9dxVXq9.png=100px)](https://instagram.com/danieldaarias)
+[![Discord](https://assets-global.website-files.com/6238e97f6441e30a13a52345/6436e47afe585348eac57c74_Discord-Logo%2BWordmark-Color%20(1).png=210px)](https://discord.gg/u7sAMDuFAK)
 

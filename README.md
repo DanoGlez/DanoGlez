@@ -8,6 +8,5 @@
 - C++ (Básico)
 
 ---
-[![Instagram](https://img.shields.io/instagram/follow/danieldaarias?logo=instagram&logoColor=white&color=violet&label=Instagram&style=for-the-badge)](https://instagram.com/danieldaarias)
-[![Discord](https://img.shields.io/discord/1130794726346465292?logo=discord&logoColor=white&color=violet&label=Discord&style=for-the-badge)](https://discord.gg/u7sAMDuFAK)
+[![Discord](https://i.imgur.com/pJYvlQu.png)](https://discord.gg/u7sAMDuFAK)
 

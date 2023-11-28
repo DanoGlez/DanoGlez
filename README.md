@@ -7,6 +7,7 @@
 ### 🔩 Lenguajes aprendidos
 - JavaScript (NodeJS)
 - C++ (Básico)
+- HTML (Basico)
 
 ### [GTAHub](https://gtahub.gg)
 - ⚒️ Mod-T

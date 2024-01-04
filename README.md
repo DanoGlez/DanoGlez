@@ -5,9 +5,10 @@
 ---
 
 ### 🔩 Lenguajes aprendidos
-- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png){:width="50px"}
-- ![C++](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png){:width="50px"}
-- ![HTML5](https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png){:width="50px"}
+- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+- <a href="https://developer.mozilla.org/es/docs/Web/HTML/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
+- <a href="https://developer.mozilla.org/es/docs/Web/CSS/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="html5" width="40" height="40"/> </a>
+- <a href="https://openwebinars.net/blog/que-es-cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="html5" width="40" height="40"/> </a>
 
 ### [GTAHub](https://gtahub.gg)
 - ⚒️ Mod-T

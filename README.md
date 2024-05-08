@@ -12,6 +12,10 @@ href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://
 ### [GTAHub](https://gtahub.gg)
 - ⚒️ Support
 
+### [PalmaHost](https://palma.gg/danoglez)
+- 🤖 Discord Developer
+- 🌐 Web Developer
+
 ### [Infames RP](https://infamesrp.com)
 - 🤖 Discord Developer
 - 🌐 Web Developer

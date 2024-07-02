@@ -19,8 +19,11 @@ href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://
 - 🤖 Discord Developer
 - 🌐 Web Developer
 
-### [Infames RP](https://infamesrp.com)
-- 🤖 Discord Developer
-- 🌐 Web Developer
+### Infames RP - Infames Legacy
+- [🤖 Discord Developer](https://discord.gg/infames)
+- [🌐 Web Developer](https://es.infamesrp.com)
+
+### Infames RP - Infames Polska
+- [🤖 Discord Developer](https://discord.gg/9xc38g7SP8)
 
 ---

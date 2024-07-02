@@ -16,9 +16,9 @@
 href="https://openwebinars.net/blog/que-es-cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c++" width="40" height="40"/> </a> <a 
 href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373446/astro.svg" alt="c++" width="40" height="40"/> </a>
 
-### [PalmaHost](https://ref.palma.gg/danoglez)
-- 🤖 Discord Developer
-- 🌐 Web Developer
+### PalmaHost
+- [🤖 Discord Developer](https://discord.gg/palmahost)
+- [🌐 Web Developer](https://ref.palma.gg/danoglez)
 
 ### Infames RP - Infames Legacy
 - [🤖 Discord Developer](https://discord.gg/infames)

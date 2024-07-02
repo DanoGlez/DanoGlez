@@ -5,10 +5,10 @@ What drives me is the constant pursuit of knowledge. Each project I undertake se
 
 ---
 
-## 👔 Formación Acreditada
-> Técnico en Sistemas Microinformáticos y redes (2022-2024)
+## 👔 Accredited Training
+> Technician in Microinformatics Systems and Networks (2022-2024)
 
-> Técnico en Desarrollo Web (2024-~~2026~~)
+> Senior Technician in Web Application Development (2024-~~2026~~)
 
 ---
 

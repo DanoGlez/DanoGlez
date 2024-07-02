@@ -1,6 +1,7 @@
-# ¡Hola! Soy Daniel, tambien me conocen como DanoGlez
-> Me dedico a la programción, pero hago proyectos para conocidos cuando tengo tiempo libre.
-> Me gusta aprender y adquirir nuevos conocimientos con cada proyecto.
+# Greetings! I'm Daniel, known as DanoGlez in the digital world.
+I am deeply immersed in the world of programming, where I actively engage in crafting solutions and tackling challenges. Beyond my professional endeavors, I enthusiastically take on side projects for friends and acquaintances during my leisure hours.
+
+What drives me is the constant pursuit of knowledge. Each project I undertake serves as a learning opportunity, allowing me to expand my skills and deepen my understanding of various technologies and methodologies.
 
 ---
 

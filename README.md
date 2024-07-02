@@ -1,6 +1,12 @@
 # ¡Hola! Soy Daniel, tambien me conocen como DanoGlez
-> No me dedico a la programción, pero hago proyectos para conocidos cuando tengo tiempo libre.
+> Me dedico a la programción, pero hago proyectos para conocidos cuando tengo tiempo libre.
 > Me gusta aprender y adquirir nuevos conocimientos con cada proyecto.
+
+---
+
+## 👔 Formación Acreditada
+> Técnico en Sistemas Microinformáticos y redes (2022-2024)
+> Técnico en Desarrollo Web (2024-~~2026~~)
 
 ---
 

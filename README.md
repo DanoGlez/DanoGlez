@@ -6,6 +6,7 @@
 
 ## 👔 Formación Acreditada
 > Técnico en Sistemas Microinformáticos y redes (2022-2024)
+
 > Técnico en Desarrollo Web (2024-~~2026~~)
 
 ---

@@ -28,4 +28,8 @@ href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://
 ### Infames RP - Infames Polska
 - [🤖 Discord Developer](https://discord.gg/9xc38g7SP8)
 
+### GTAPLAY
+
+- [🎮 Developer](https://gtaplay.me)
+
 ---

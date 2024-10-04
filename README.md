@@ -17,7 +17,7 @@ What drives me is the constant pursuit of knowledge. Each project I undertake se
 href="https://openwebinars.net/blog/que-es-cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c++" width="40" height="40"/> </a> <a 
 href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373446/astro.svg" alt="Astro" width="40" height="40"/> </a> <a 
 href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" alt="TypeScript" width="40" height="40"/> </a> <a 
-href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/503536/react.svg" alt="TypeScript" width="40" height="40"/> </a>
+href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/355190/reactjs.svg" alt="TypeScript" width="40" height="40"/> </a>
 
 
 ### PalmaHost

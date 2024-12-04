@@ -33,8 +33,4 @@ href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank" rel="nor
 - [🤖 Discord Developer](https://discord.gg/9xc38g7SP8)
 - [🌐 Web Developer](https://pl.infamesrp.com)
 
-### GTAPLAY
-
-- [🎮 Developer](https://gtaplay.me)
-
 ---

@@ -67,6 +67,6 @@ Every project is a stepping stone toward greater knowledge, and I embrace each a
 ---
 
 ## 💡 Let's Connect!
-- **Email:** [hola@danoglez.com](mailto:hola@danoglez.com)  
+- **Email:** [contact@danoglez.com](mailto:contact@danoglez.com)  
 - **LinkedIn:** [Daniel González](https://www.linkedin.com/in/francisco-daniel-d-282048295/)  
 - **Portfolio:** [danoglez.com](https://danoglez.com)  

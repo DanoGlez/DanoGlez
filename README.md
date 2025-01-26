@@ -42,22 +42,6 @@ Every project is a stepping stone toward greater knowledge, and I embrace each a
 
 ---
 
-## 🌐 Projects & Collaborations
-
-### PalmaHost 🌟
-- **[🤖 Discord Developer](https://discord.gg/palmahost)**  
-- **[🌐 Web Developer](https://ref.palma.gg/danoglez)**  
-
-### Infames RP - Infames Legacy 🎮
-- **[🤖 Discord Developer](https://discord.gg/infames)**  
-- **[🌐 Web Developer](https://es.infamesrp.com)**  
-
-### Infames RP - Infames Polska 🇵🇱
-- **[🤖 Discord Developer](https://discord.gg/9xc38g7SP8)**  
-- **[🌐 Web Developer](https://pl.infamesrp.com)**  
-
----
-
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DanoGlez&show_icons=true&theme=radical" alt="GitHub Stats"/>

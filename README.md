@@ -38,6 +38,9 @@ Every project is a stepping stone toward greater knowledge, and I embrace each a
   <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
+    <a href="https://www.php.net/docs.php" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="C#" width="40" height="40"/>
+  </a>
 </p>
 
 ---

@@ -45,14 +45,6 @@ Every project is a stepping stone toward greater knowledge, and I embrace each a
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanoGlez&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanoGlez&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
 ## 💡 Let's Connect!
 - **Email:** [contact@danoglez.com](mailto:contact@danoglez.com)  
 - **LinkedIn:** [Daniel González](https://www.linkedin.com/in/francisco-daniel-d-282048295/)  

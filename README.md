@@ -48,4 +48,4 @@ Every project is a stepping stone toward greater knowledge, and I embrace each a
 ## 💡 Let's Connect!
 - **Email:** [fdariasglez@hotmail.com](mailto:fdariasglez@hotmail.com)  
 - **LinkedIn:** [Daniel González](https://www.linkedin.com/in/francisco-daniel-d-282048295/)  
-- **Portfolio:** [danoglez.com](https://danoglez.com)  
+- **Portfolio:** [danoglez.dev](https://danoglez.dev)  
